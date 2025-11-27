@@ -1,0 +1,5 @@
+{
+  "name": "Hexapawn AI",
+  "description": "A reinforcement learning Hexapawn game where the AI learns from its mistakes.",
+  "requestFramePermissions": []
+}
