@@ -40,6 +40,6 @@ Over time, the AI prunes away all losing variations until it becomes unbeatable 
 *   **Tailwind CSS** for styling
 *   **Vite** (implied build tool)
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 **Vibecoded by Egemen Okte using Claude and Gemini**
