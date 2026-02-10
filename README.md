@@ -1,5 +1,7 @@
 # Hexapawn AI
 
+Application hosted at [hexapawn.egemenokte.com](https://hexapawn.egemenokte.com) 
+
 A React-based implementation of **Hexapawn**, a simple chess variant played on a 3x3 board, featuring a Reinforcement Learning AI that learns from its mistakes.
 
 ## 🎮 How to Play
